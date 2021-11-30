@@ -1,4 +1,5 @@
 # Portifolio
+![AngularPreLoader](https://user-images.githubusercontent.com/12356493/143987389-6a3dd76f-f1b3-47a4-b677-1c85b2dd9748.gif)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.3.
 
